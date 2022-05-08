@@ -1,1 +1,2 @@
 
+var b = 'Hi there';
