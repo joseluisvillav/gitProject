@@ -1,4 +1,4 @@
 
-const a = 100;
+var b = 'Hi there';
 
-const myFunc = ()=>{}
+const myFunc = ()=>{};
